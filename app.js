@@ -814,9 +814,9 @@
       ],
     },
     celular: {
-      msg: (k) => `Hola GT Computers 👋 Tengo un celular con este problema: "${k}". Quiero mi diagnóstico gratuito. ¿Me ayudan?`,
+      msg: (k) => `Hola GT Computers 👋 Tengo un celular con este problema: "${k}". Quiero mi diagnóstico profesional. ¿Me ayudan?`,
       symptoms: [
-        { k: 'Pantalla rota o sin táctil', head: 'Cambio de pantalla', text: 'Pantallas originales y de excelente calidad, para que tu celular vuelva a verse y sentirse como nuevo.', steps: ['Diagnóstico gratuito', 'Cambiamos la pantalla', 'Probamos táctil, brillo y color antes de entregarlo'] },
+        { k: 'Pantalla rota o sin táctil', head: 'Cambio de pantalla', text: 'Pantallas originales y de excelente calidad, para que tu celular vuelva a verse y sentirse como nuevo.', steps: ['Diagnóstico profesional', 'Cambiamos la pantalla', 'Probamos táctil, brillo y color antes de entregarlo'] },
         { k: 'La batería dura muy poco', head: 'Reemplazo de batería', text: 'Más duración y mejor rendimiento. Si notas la tapa levantada o hinchada, deja de usarlo y escríbenos.', steps: ['Revisamos el estado de la batería', 'La reemplazamos por una de calidad', 'Probamos la carga completa'] },
         { k: 'No se escucha (bocinas o altavoz)', head: 'Audio: bocinas y altavoz', text: 'Recuperamos el audio de tu celular: sonido claro y potente.', steps: ['Probamos bocina y altavoz', 'Cambiamos la pieza dañada', 'Verificamos llamadas y multimedia'] },
         { k: 'No me escuchan (micrófono)', head: 'Cambio de micrófono', text: 'Para que hables y escuches sin problemas.', steps: ['Probamos el micrófono en llamadas y notas de voz', 'Cambiamos el micrófono dañado', 'Verificamos que todo suene bien'] },

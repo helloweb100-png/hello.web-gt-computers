@@ -850,6 +850,8 @@ html:not(.js) .receipt { transform: none; }
 .acc__panel { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .6s var(--ease); }
 .acc__panel > div { overflow: hidden; }
 .acc__panel p { padding: 0 1.3rem 1.3rem; max-width: 62ch; color: var(--text-2); }
+.acc__panel .ticks { padding: 0 1.3rem 1.3rem; max-width: 62ch; }
+.acc__panel .ticks li { font-size: 1rem; }
 .acc__item.is-open .acc__panel { grid-template-rows: 1fr; }
 
 .contact__grid { display: grid; gap: 1.6rem; }
